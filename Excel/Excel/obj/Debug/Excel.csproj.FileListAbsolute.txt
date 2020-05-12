@@ -8,3 +8,13 @@ C:\Users\ADM\Documents\Arboles\Excel\Excel\obj\Debug\Excel.csproj.GenerateResour
 C:\Users\ADM\Documents\Arboles\Excel\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
 C:\Users\ADM\Documents\Arboles\Excel\Excel\obj\Debug\Excel.exe
 C:\Users\ADM\Documents\Arboles\Excel\Excel\obj\Debug\Excel.pdb
+C:\Users\ADM\Desktop\Ingenieria-del-conocimiento\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\ADM\Desktop\Ingenieria-del-conocimiento\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\ADM\Desktop\Ingenieria-del-conocimiento\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\ADM\Desktop\Ingenieria-del-conocimiento\Excel\Excel\obj\Debug\Excel.csprojAssemblyReference.cache
+C:\Users\ADM\Desktop\Ingenieria-del-conocimiento\Excel\Excel\obj\Debug\Excel.Form1.resources
+C:\Users\ADM\Desktop\Ingenieria-del-conocimiento\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+C:\Users\ADM\Desktop\Ingenieria-del-conocimiento\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+C:\Users\ADM\Desktop\Ingenieria-del-conocimiento\Excel\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\Ingenieria-del-conocimiento\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\ADM\Desktop\Ingenieria-del-conocimiento\Excel\Excel\obj\Debug\Excel.pdb

@@ -13,6 +13,7 @@ namespace Excel
 {
     public partial class Form1 : Form
     {
+       
         public Form1()
         {
             InitializeComponent();
@@ -20,7 +21,7 @@ namespace Excel
 
         DataView ImportarDatos(String nombrearchivo)
         {
-            string conexion = string.Format("provider = Microsoft.ACE.OLEDB.12.0; Data Source = {0}; Extended Properties = 'Excel 12.0;'",nombrearchivo);
+            string conexion = string.Format("provider = Microsoft.ACE.OLEDB.12.0; Data Source = {0}; Extended Properties = 'Excel 12.0;'", nombrearchivo);
 
             OleDbConnection conector = new OleDbConnection(conexion);
 
@@ -36,9 +37,30 @@ namespace Excel
 
             adaptador.Fill(ds);
 
+            DataTable table = ds.Tables[0];
+            //DataRow[] rows = table.Select();
+
+            for (int i = 0; i <= ds.Tables[0].Rows[0].ItemArray.Length -1; i++)
+            {
+                Console.WriteLine(ds.Tables[0].Rows[0].ItemArray[i] + " -- " + ds.Tables[0].Rows[0].Table.Columns[i]);
+            }
+
+
+            /*  for (int i = 0; i <= ds.Tables[0].Rows[0].ItemArray.Length - 1; i++)
+              {
+                  MessageBox.Show(ds.Tables[0].Rows[0].ItemArray[i] + " -- " + ds.Tables[0].Rows[0].Table.Columns[i]);
+              }*/
+
+
             conector.Close();
 
             return ds.Tables[0].DefaultView;
+
+        }
+
+        private void ObtenerDatos()
+        {
+            
         }
 
         private void BtnImportarDatos_Click(object sender, EventArgs e)
