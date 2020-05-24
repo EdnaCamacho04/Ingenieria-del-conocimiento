@@ -1,0 +1,10 @@
+C:\Users\ADM\Documents\Arboles\ArbolDesR\ArbolDesR\bin\Debug\ArbolDesR.exe.config
+C:\Users\ADM\Documents\Arboles\ArbolDesR\ArbolDesR\bin\Debug\ArbolDesR.exe
+C:\Users\ADM\Documents\Arboles\ArbolDesR\ArbolDesR\bin\Debug\ArbolDesR.pdb
+C:\Users\ADM\Documents\Arboles\ArbolDesR\ArbolDesR\obj\Debug\ArbolDesR.csprojAssemblyReference.cache
+C:\Users\ADM\Documents\Arboles\ArbolDesR\ArbolDesR\obj\Debug\ArbolDesR.Form1.resources
+C:\Users\ADM\Documents\Arboles\ArbolDesR\ArbolDesR\obj\Debug\ArbolDesR.Properties.Resources.resources
+C:\Users\ADM\Documents\Arboles\ArbolDesR\ArbolDesR\obj\Debug\ArbolDesR.csproj.GenerateResource.cache
+C:\Users\ADM\Documents\Arboles\ArbolDesR\ArbolDesR\obj\Debug\ArbolDesR.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\Arboles\ArbolDesR\ArbolDesR\obj\Debug\ArbolDesR.exe
+C:\Users\ADM\Documents\Arboles\ArbolDesR\ArbolDesR\obj\Debug\ArbolDesR.pdb
